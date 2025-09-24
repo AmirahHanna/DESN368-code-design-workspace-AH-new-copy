@@ -42,8 +42,8 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 
 ## 🛠️ **My Toolkit**
 *Update these links as you complete each tool setup:*
-- **GitHub:** https://github.com/AmirahHanna/AH-DESN368-code-design-workspace ⏳
-- **Workspace (Forked Repo):** [Add your forked repo link here] ⏳
+- **GitHub:** https://github.com/AmirahHanna ⏳
+- **Workspace (Forked Repo):** https://github.com/AmirahHanna/AH-DESN368-code-design-workspace ⏳
 - **Figma:** [Add your Figma username here] ⏳
 - **CodePen:** [Add your CodePen profile URL here] ⏳
 - ~~**LiveCode:** [Add your LiveCode profile here] ⏳~~
