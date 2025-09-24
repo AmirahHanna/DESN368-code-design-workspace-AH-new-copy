@@ -46,7 +46,7 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 - **Workspace (Forked Repo):** [Add your forked repo link here] ⏳
 - **Figma:** [Add your Figma username here] ⏳
 - **CodePen:** [Add your CodePen profile URL here] ⏳
-- **LiveCode:** [Add your LiveCode profile here] ⏳
+- ~~**LiveCode:** [Add your LiveCode profile here] ⏳~~
 - **GitHub Student Pack:** [Confirm approval status here] ⏳  
 
 ### **How to Update Your Toolkit:**
