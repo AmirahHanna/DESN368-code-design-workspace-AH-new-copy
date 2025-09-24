@@ -3,7 +3,7 @@
 ## Background & Skills
 
 **1. Major:**  
-[Your answer here]
+Visual Communication Design
 
 **2. Design courses completed:**  
 [ ] DESN 100  
@@ -19,33 +19,33 @@
 [ ] Never coded  
 [ ] Viewed source  
 [ ] Modified HTML/CSS  
-[ ] Built websites  
+[x] Built websites  
 [ ] Professional work
 
 **4. AI tool experience:**  
 [ ] Never used  
-[ ] ChatGPT occasionally  
+[x] ChatGPT occasionally  
 [ ] Regular AI user  
-[ ] Coding with AI  
+[x] Coding with AI  
 [ ] Not sure what this means
 
 ## Designer-Coder Mindset
 
 **5. When you see a website, you primarily notice:**  
-[ ] Visual design  
+[x] Visual design  
 [ ] How it functions  
 [ ] Both equally  
 [ ] Other: _______________
 
 **6. Rate your comfort level (1-5 scale, 5 = very comfortable):**  
-- Sketching ideas: ___  
-- Problem-solving: ___  
-- Design software: ___  
-- Giving/receiving feedback: ___
+- Sketching ideas: 4  
+- Problem-solving: 3  
+- Design software: 3  
+- Giving/receiving feedback: 4
 
 **7. Learning preference:**  
 [ ] Jump in and build  
-[ ] Step-by-step tutorials  
+[x] Step-by-step tutorials  
 [ ] Read first, then practice  
 [ ] Learn from mistakes  
 [ ] Other: _______________
@@ -53,23 +53,23 @@
 ## Course Alignment
 
 **8. Main goal:**  
-[ ] Pass class  
+[x] Pass class  
 [ ] Build portfolio  
 [ ] Understand web development  
 [ ] Career prep  
-[ ] Personal interest
+[x] Personal interest
 
 **9. Biggest concern:**  
-[ ] Keeping up  
+[x] Keeping up  
 [ ] Syntax/technical details  
-[ ] Design skills  
+[x] Design skills  
 [ ] Working with others  
 [ ] Using AI appropriately
 
 **10. Most excited about:**  
 [ ] Making things work  
 [ ] Visual design  
-[ ] Combining design + code  
+[x] Combining design + code  
 [ ] AI collaboration  
 [ ] Not sure yet
 
@@ -77,13 +77,13 @@
 
 **11. HTML is primarily for:**  
 [ ] Visual styling and layout  
-[ ] Content structure and meaning  
+[x] Content structure and meaning  
 [ ] Interactive functionality  
 [ ] Database connections
 
 **12. CSS is primarily for:**  
 [ ] Content structure  
-[ ] Visual styling and layout  
+[x] Visual styling and layout  
 [ ] Programming logic  
 [ ] Server communication
 
