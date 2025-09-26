@@ -6,9 +6,9 @@
 Visual Communication Design
 
 **2. Design courses completed:**  
--[x] DESN 100  
--[ ] DESN 200  
--[x] DESN 216  
+[X] DESN 100  
+[ ] DESN 200  
+[x] DESN 216  
 [ ] DESN 243  
 [ ] DESN 263  
 [ ] DESN 338  
