@@ -44,10 +44,10 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 *Update these links as you complete each tool setup:*
 - **GitHub:** https://github.com/AmirahHanna ⏳
 - **Workspace (Forked Repo):** https://github.com/AmirahHanna/AH-DESN368-code-design-workspace ⏳
-- **Figma:** [Add your Figma username here] ⏳
-- **CodePen:** [Add your CodePen profile URL here] ⏳
+- **Figma:** ahanna5 ⏳
+- **CodePen:** https://codepen.io/AmirahHanna ⏳
 - ~~**LiveCode:** [Add your LiveCode profile here] ⏳~~
-- **GitHub Student Pack:** [Confirm approval status here] ⏳  
+- **GitHub Student Pack:** Approved ⏳  
 
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README  
