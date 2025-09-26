@@ -83,7 +83,7 @@ Visual Communication Design
 
 **12. CSS is primarily for:**  
 [ ] Content structure  
-[x] Visual styling and layout  
+[X] Visual styling and layout  
 [ ] Programming logic  
 [ ] Server communication
 
