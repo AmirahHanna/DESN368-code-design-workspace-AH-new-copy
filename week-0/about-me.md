@@ -6,19 +6,19 @@
 Visual Communication Design
 
 **2. Design courses completed:**  
-[ ] DESN 100  
+[x] DESN 100  
 [ ] DESN 200  
-[ ] DESN 216  
+[x] DESN 216  
 [ ] DESN 243  
 [ ] DESN 263  
 [ ] DESN 338  
 [ ] None  
-[ ] Other: _______________
+[x] Other: DESN 359
 
 **3. Web experience:**  
 [ ] Never coded  
-[ ] Viewed source  
-[ ] Modified HTML/CSS  
+[x] Viewed source  
+[x] Modified HTML/CSS  
 [x] Built websites  
 [ ] Professional work
 
@@ -88,7 +88,7 @@ Visual Communication Design
 [ ] Server communication
 
 **13. One thing you hope to create by course end:**  
-[Your answer here]
+A nice workflow for creating websites so it doesnt feel haphazard and confusing!
 
 ---
 *This intake will help me understand your background and tailor the course experience. Feel free to expand on any answers!*
