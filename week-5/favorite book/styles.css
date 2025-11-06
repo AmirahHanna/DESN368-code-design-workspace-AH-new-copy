@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap');
+* {
+  font-family: "Besley", serif;
+  font-size: 18px;
+  font-weight: 450;
+  font-style: normal;
+  letter-spacing: -.5px;
+  max-width: 600px;
+  background-color: #D7C8B4;
+  
+
+}
+blockquote, .reference {
+  font-style: italic;
+  width: 300px;
+}
+h1, h2 {
+  font-family: "Charm", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px;
+  line-height: 0px;
+  
+  
+}
+h2 {
+  font-size:25px;
+}
+p {
+  text-indent: 20px;
+  line-height:28px;
+}
+hr {
+  color: black;
+}
+.note {
+  font-weight: 200;
+  margin: 5px;
+  font-size:15px;
+}
+
